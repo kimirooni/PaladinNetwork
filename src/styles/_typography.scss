@@ -1,0 +1,53 @@
+.HomePage{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+}
+
+.hero-text{
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+ 
+    span{
+        color: #aa47fa;
+    }
+}
+
+.h-sub-text{
+    
+    text-align: center;
+    color: rgb(199, 192, 192)
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem 0;
+    .icon-holder{
+        margin-right: 1rem;
+       
+        
+        .icon{
+            font-size: 2.8rem; //iconsize
+            color: rgb(252, 252, 252);
+            :hover{
+                color: rgb(67, 24, 184);
+            }
+        }
+    }
+}
+
+.hyperlink{
+    font-size:1.5rem;
+    color: #d5a7fa;
+        
+}
+.support{
+    font-size:2.5rem;
+    color: white;
+    
+}
