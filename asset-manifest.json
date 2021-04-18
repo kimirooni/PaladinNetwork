@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PaladinNetwork/static/css/main.8643d67f.chunk.css",
+    "main.js": "/PaladinNetwork/static/js/main.16eb024a.chunk.js",
+    "main.js.map": "/PaladinNetwork/static/js/main.16eb024a.chunk.js.map",
+    "runtime-main.js": "/PaladinNetwork/static/js/runtime-main.5d6063f9.js",
+    "runtime-main.js.map": "/PaladinNetwork/static/js/runtime-main.5d6063f9.js.map",
+    "static/js/2.26f5caa7.chunk.js": "/PaladinNetwork/static/js/2.26f5caa7.chunk.js",
+    "static/js/2.26f5caa7.chunk.js.map": "/PaladinNetwork/static/js/2.26f5caa7.chunk.js.map",
+    "static/js/3.3f99600d.chunk.js": "/PaladinNetwork/static/js/3.3f99600d.chunk.js",
+    "static/js/3.3f99600d.chunk.js.map": "/PaladinNetwork/static/js/3.3f99600d.chunk.js.map",
+    "index.html": "/PaladinNetwork/index.html",
+    "static/css/main.8643d67f.chunk.css.map": "/PaladinNetwork/static/css/main.8643d67f.chunk.css.map",
+    "static/js/2.26f5caa7.chunk.js.LICENSE.txt": "/PaladinNetwork/static/js/2.26f5caa7.chunk.js.LICENSE.txt",
+    "static/media/avatar.55b4ef0c.png": "/PaladinNetwork/static/media/avatar.55b4ef0c.png",
+    "static/media/App.scss": "/PaladinNetwork/static/media/inferno.e790adce.jpg",
+    "static/media/logo.6ce24c58.svg": "/PaladinNetwork/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d6063f9.js",
+    "static/js/2.26f5caa7.chunk.js",
+    "static/css/main.8643d67f.chunk.css",
+    "static/js/main.16eb024a.chunk.js"
+  ]
+}
